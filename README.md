@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **AgniScript/AgniScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi, I'm Agni 👋
+
+### Software Developer | Full-Stack Engineer | Automation & SaaS Specialist
+
+---
+
+🚀 **About Me**  
+I build scalable web & mobile applications with Laravel, Angular, and Ionic.  
+I specialize in automation, cloud integrations, and custom algorithms that solve real business problems—like dynamic pricing engines, OCR-based quote systems, and multi-timezone meeting schedulers.
+
+---
+
+🔧 **Tech Stack**  
+- Backend: PHP (Laravel, CodeIgniter)  
+- Frontend: Angular, Ionic  
+- DevOps: CI/CD, GitHub Actions, Docker  
+- APIs: Google Cloud Vision, Zoom, Calendly  
+
+---
+
+📂 **Pinned Projects**
+
+- [Dynamic Pricing Engine](https://github.com/Agni/dynamic-pricing-engine) — Custom algorithm for flexible pricing based on document analysis.  
+- [Multi-Timezone Scheduler](https://github.com/Agni/multi-timezone-scheduler) — Meeting scheduler supporting multiple time zones & Zoom integration.  
+- [OCR Translation Quote Tool](https://github.com/Agni/ocr-translation-quote-tool) — Converts docs to images and runs text extraction for quoting.
+
+---
+
+🌱 **Currently Learning**  
+- Advanced cloud-native architectures  
+- AI-assisted code automation  
+
+---
+
+📫 **Get in touch:**  
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+
+---
+
+✨ Thanks for stopping by!  
