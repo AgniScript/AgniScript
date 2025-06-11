@@ -49,7 +49,7 @@ I specialize in automation, cloud integrations, and custom algorithms that solve
 ---
 
 📫 **Get in touch:**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/agnibha-dev/) | [Email](mailto:contact@codewithagni.live)
 
 ---
 
