@@ -6,8 +6,8 @@
 
 **8+ years turning messy business processes into reliable, self-running systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnibha-dev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:agnibha.das898@gmail.com)
 [![Location](https://img.shields.io/badge/Based%20in-Kolkata%2C%20India-2E2E2E?style=flat-square)](#)
 
 </div>
