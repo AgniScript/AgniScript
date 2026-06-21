@@ -34,6 +34,7 @@ I specialize in automation, cloud integrations, and custom algorithms that solve
 
 ---
 
+<!-- This is a comment 
 📂 **Pinned Projects**
 
 - [Dynamic Pricing Engine](https://github.com/Agni/dynamic-pricing-engine) — Custom algorithm for flexible pricing based on document analysis.  
@@ -41,7 +42,7 @@ I specialize in automation, cloud integrations, and custom algorithms that solve
 - [OCR Translation Quote Tool](https://github.com/Agni/ocr-translation-quote-tool) — Converts docs to images and runs text extraction for quoting.
 
 ---
-
+-->
 🌱 **Currently Learning**  
 - Advanced cloud-native architectures  
 - AI-assisted code automation  
